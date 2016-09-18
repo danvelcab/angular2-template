@@ -3,6 +3,7 @@
 ## Template:
 - Angular 2
 - Bootstrap 4
+- ng2-translate
 
 ## Set up:
 
@@ -13,5 +14,6 @@
 
 ## TODO
 - [X] Navbar
+- i18n
 - [ ] Facebook register
 - [ ] Facebook login
