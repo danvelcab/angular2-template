@@ -1,0 +1,28 @@
+<nav>
+    <div class="clearfix">
+        <button (click)="isCollapsed = !isCollapsed"
+                class="navbar-toggler pull-xs-right hidden-sm-up" type="button"
+                aria-controls="bd-main-nav"
+                aria-label="Toggle navigation">
+            {{menuIcon}}
+        </button>
+        <a (click)="isCollapsed = true" class="navbar-brand hidden-sm-up">
+            Brand Title
+        </a>
+    </div>
+    <div class="navbar-toggleable-xs navbar-collapse" id="bd-main-nav"
+         [attr.aria-expanded]="!isCollapsed" [ngClass]="{collapse: isCollapsed}">
+        <ul class="nav navbar-nav">
+            <li (click)="isCollapsed = true" class="nav-item">
+                <a class="navbar-brand hidden-xs-down">Brand Title</a>
+            </li>
+            <li (click)="isCollapsed = true" class="nav-item">
+                <a class="nav-item nav-link">Registrarse</a>
+            </li>
+            <li (click)="isCollapsed = true" class="nav-item">
+                <a class="nav-item nav-link">Login</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
