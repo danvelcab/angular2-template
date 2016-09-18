@@ -13,5 +13,5 @@
 
 ## TODO
 - [X] Navbar
-- [] Facebook register
-- [] Facebook login
+- [ ] Facebook register
+- [ ] Facebook login
