@@ -14,6 +14,6 @@
 
 ## TODO
 - [X] Navbar
-- i18n
+- [ ] i18n
 - [ ] Facebook register
 - [ ] Facebook login
