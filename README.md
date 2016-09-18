@@ -1,8 +1,8 @@
 # Angular 2 Basic template
 
 ## Template:
-1. Angular 2
-2. Bootstrap 4
+- Angular 2
+- Bootstrap 4
 
 ## Set up:
 
