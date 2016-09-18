@@ -10,3 +10,8 @@
 2. npm install
 3. npm run typings install
 4. npm start
+
+## TODO
+- [X] Navbar
+- [] Facebook register
+- [] Facebook login
