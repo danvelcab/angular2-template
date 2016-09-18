@@ -1,8 +1,6 @@
-# angular2-template
+# Angular 2 Basic template
 
-## Angular 2 Basic template
-
-Set up:
+## Set up:
 
 1. Clone the repository
 2. npm install
