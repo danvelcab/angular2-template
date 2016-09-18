@@ -1,7 +1,6 @@
 # angular2-template
 
-h1.
-Angular 2 Basic template
+## Angular 2 Basic template
 
 Set up:
 
